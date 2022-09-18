@@ -68,3 +68,6 @@ gradlew installDebug
 * [Sakshi Singh](https://github.com/1539sakshi)
 * [Anvansh Singh](https://github.com/ryanwalker277)
 * [Arjit Goyal](https://github.com/arjit1704)
+---
+## Presentation 
+For the detailed view of our project, [click here](https://www.canva.com/design/DAFHuTMEE7Q/q8aFE5fanSBwQfeo01NUnw/view?utm_content=DAFHuTMEE7Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
