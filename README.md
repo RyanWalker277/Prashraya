@@ -43,7 +43,7 @@
 	-  Android Studio v4.0
 	-  A working Android physical device or emulator with USB debugging enabled
 
-* Directions to setup/install
+## Directions to setup/install
 - Clone this repository to your local storage using Git bash:
 bash
 https://github.com/RyanWalker277/Prashraya
@@ -55,10 +55,12 @@ bash
 gradlew installDebug
 
 
-* Directions to execute
+## Directions to execute
 -  To launch hands free, run the following using command line tools
-	bash
-	adb shell monkey -p com.hackygirls.prashraya -c android.intent.category.LAUNCHER 1
+
+```
+shell monkey -p com.hackygirls.prashraya -c android.intent.category.LAUNCHER 1
+```
 	
 
 ---
