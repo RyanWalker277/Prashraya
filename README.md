@@ -71,3 +71,6 @@ gradlew installDebug
 ---
 ## Presentation 
 For the detailed view of our project, [click here](https://www.canva.com/design/DAFHuTMEE7Q/q8aFE5fanSBwQfeo01NUnw/view?utm_content=DAFHuTMEE7Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
+## Video Link
+For the video demonstration, [click here](https://drive.google.com/file/d/1z9kvXkhFmRpOM2p4jX48LH106TmOCiH3/view?usp=sharing)
